@@ -1,8 +1,8 @@
-YMDB
+#YMDB
 
 L'application YMDB est un script node js qui permet de récuperer des informations d'un film selectionné sur l'API IMDB
 
-Options
+##Options
 
 Une fois l'application installé vous avez plusieurs façons de l'utiliser
 

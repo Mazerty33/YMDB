@@ -1,0 +1,22 @@
+{
+  "name": "ymdb",
+  "version": "1.0.0",
+  "description": "Your Movie DataBase",
+  "main": "YMDB.js",
+  "scripts": {
+    "start": "node YMDB.js"
+  },
+  "bin": {
+    "ymdb": "./YMDB.js"
+  },
+  "author": "Masson Guillaume",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "commander": "^2.9.0",
+    "fs": "0.0.1-security",
+    "imdb-api": "^2.2.0",
+    "inquirer": "^1.2.1",
+    "sqlite": "^2.2.0"
+  }
+}

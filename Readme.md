@@ -1,15 +1,15 @@
 #YMDB
 
-L'application YMDB est un script node js qui permet de récuperer des informations d'un film selectionné sur l'API IMDB
+L'application YMDB est un script node js qui permet de récupérer des informations d'un film sélectionné sur l'API IMDB
 
 **Options**
 
-Une fois l'application installé vous avez plusieurs façons de l'utiliser
+Une fois l'application installée vous avez plusieurs façons de l'utiliser
 
-ymdb lancement classique, demande à l'utilisateur sur quel film il veut collecter des informations et les stock en DBB, l'utilisateur peut rentrer des infos personelles liés au film
+ymdb lancement classique, demande à l'utilisateur sur quel film il veut collecter des informations et les stocks en DBB, l'utilisateur peut rentrer des infos personelles liées au film
 
-ymdb -w / --watched -> Affiche à l'utilisateur tout ses films deja vue
+ymdb -w / --watched -> Affiche à l'utilisateur tous ses films deja vue
 
-ymdb -u / --unwatched -> Affiche à l'utilisateur tout ses films non vue
+ymdb -u / --unwatched -> Affiche à l'utilisateur tous ses films non vue
 
-ymdb -e / --export -> export tout les nom de films dans un fichier texte
+ymdb -e / --export -> export tous les noms de films dans un fichier texte

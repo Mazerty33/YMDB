@@ -1,6 +1,6 @@
 #YMDB
 
-L'application YMDB est un script node js qui permet de récupérer des informations d'un film sélectionné sur l'API IMDB
+L'application YourMovieDataBase est un script node js qui permet de récupérer des informations d'un film sélectionné sur l'API IMDB
 
 **Options**
 
